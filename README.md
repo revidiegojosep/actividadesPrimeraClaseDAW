@@ -1,3 +1,4 @@
-Repositorio correspondiente a las actividades durante la primera clase de Desplegue de Aplicaciones Web.
+Repositorio correspondiente a las actividades 1 y git pages.
 
-Este repositorio contiene los ejercicios y prácticas realizadas durante el curso.
+Este repositorio contiene ejercicios y prácticas realizadas durante el curso.
+
